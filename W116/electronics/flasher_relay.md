@@ -1,5 +1,10 @@
 # Bosch flasher relay rebuild
 
+## Sections
+- [Background](#background)
+- [Koan's Fix Image Guide](#koans-fix-image-guide)
+- [Part Links](#part-links)
+
 ## Background
 
 The Bosch flasher relays fail (indicators stuck on when activated, not blinking) a lot and original (even non-bosch) replacement parts are expensive, ~$100 for an ancient relay. One fix, originally discovered by [koan from the w116.org forum](https://forum.w116.org/index.php?action=profile;u=255) back in 2007 is to transplant a cheaper Hella relay into the original Bosch case.
